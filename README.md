@@ -64,31 +64,3 @@ docmagic-converter/
 ├── requirements.txt       # Dependencies
 └── README.md              # Documentation
 
-Troubleshooting
-Issue: "Cannot identify image file"
-Solution: Ensure all icon files are present in assets/icons/
-
-Issue: PowerPoint conversions fail
-Solution: Ensure Microsoft PowerPoint is installed (Windows only)
-
-Issue: PDF to JPG not working
-Solution: Install poppler-utils:
-
-Windows: Download from poppler.freedesktop.org
-
-Mac: brew install poppler
-
-Linux: sudo apt-get install poppler-utils
-
-Contributing
-Contributions are welcome! Please follow these steps:
-
-Fork the repository
-
-Create a feature branch
-
-Commit your changes
-
-Push to the branch
-
-Open a pull request

@@ -1,0 +1,9 @@
+Pillow
+pdf2docx
+docx2pdf
+pdf2image
+tabula-py
+pandas
+fpdf2
+python-pptx
+comtypes
